@@ -5,6 +5,7 @@ body {
     background-size: cover;
     font-weight: bold;
     text-align: center;
+    
 }
 
 
@@ -23,6 +24,7 @@ p {
     text-align: center;
     color: black;
     font-size: 20px;
+    text-color: black;
 }
 button {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
